@@ -8,11 +8,11 @@ Garage Management is a console app to manage a garage, written in C# with .NET f
 The system uses various data structures, using OOP, enums and inheritance and more C# features.
 
 ## Supported Vehicles
-Car
-Electric Car
-Motorcycle
-Electric Motorcycle
-Truck
+* Car
+* Electric Car
+* Motorcycle
+* Electric Motorcycle
+* Truck
 	
 ## About the project
 Project is created with:
