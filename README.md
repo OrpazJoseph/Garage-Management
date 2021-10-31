@@ -21,7 +21,7 @@ Project is created with:
 * Object Oriented Programming
 * Inheritance
 
-** System Options
+## System Options
 * Inserting a new vehicle into the system
 * Displaying vehicles by license number, with filter by vehicle's status option
 * Change vehicle's status in Garage - In repair, Fixed, Paid
